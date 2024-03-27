@@ -6,3 +6,11 @@
     border: none;
     outline: none;
 }
+
+h1 {
+    color: #121212;
+}
+
+p {
+    columns: #121212;
+}
